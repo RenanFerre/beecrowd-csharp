@@ -1,12 +1,11 @@
-﻿using System;
+﻿namespace Beecrowd;
 
-class URI
+class Problema1001
 {
     static void Main(string[] args)
     {
         int a = int.Parse(Console.ReadLine());
         int b = int.Parse(Console.ReadLine());
-        int x = a + b;
-        Console.WriteLine($"X = {x}");
+        Console.WriteLine($"X = {a + b}");
     }
 }
