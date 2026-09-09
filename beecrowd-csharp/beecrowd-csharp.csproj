@@ -6,7 +6,7 @@
     <RootNamespace>beecrowd_csharp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Beecrowd.Problema1003</StartupObject>
+    <StartupObject>Beecrowd.Problema1079</StartupObject>
   </PropertyGroup>
 
 </Project>
